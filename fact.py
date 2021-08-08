@@ -10,7 +10,10 @@ def factorial (n):
     Return :
     a non - negative integer
     """
-    
+    for i in n:
+        if i <= 0:
+            n == 0
+            
     pass
 
 
