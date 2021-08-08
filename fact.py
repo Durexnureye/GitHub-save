@@ -10,8 +10,7 @@ def factorial (n):
     Return :
     a non - negative integer
     """
-
-    hahahah nihoaa
+    
     pass
 
 
